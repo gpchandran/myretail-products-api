@@ -2,6 +2,13 @@
 
 MyRetail API and Beyond!
 
+## Technology stack
+
+* * Server Side - Java 8, Spring, Spring Boot, Spring MVC Rest , Spring Data JPA  and more
+* Data Store - Mongo DB and MongoBee
+* Client Side - Angular JS, Bootstrap and Swagger-UI
+
+
 ## Development
 Run the following commands in from command prompt
 
